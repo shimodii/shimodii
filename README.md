@@ -1,11 +1,13 @@
-### Intrested in:
+## Interested in:
 ![Linux](https://img.shields.io/badge/-Linux-141a20?style=for-the-badge&logo=linux)&nbsp;
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=for-the-badge&logo=arch-linux)&nbsp;
 ![OpenBox](https://img.shields.io/badge/-Openbox-141a20?style=for-the-badge)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=for-the-badge&logo=git)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
-
+![Atom](https://img.shields.io/badge/-Atom-141a20?style=for-the-badge&logo=atom)&nbsp;
+![Gimp](https://img.shields.io/badge/-Gimp-141a20?style=for-the-badge&logo=gimp)&nbsp;
+![Rpi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white);
 <img src="https://github-readme-stats.vercel.app/api?username=am-shm&theme=blue-green">
 
 
