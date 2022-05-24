@@ -1,4 +1,13 @@
-### Hi there 👋
+### Intrested in:
+![Linux](https://img.shields.io/badge/-Linux-141a20?style=for-the-badge&logo=linux)&nbsp;
+![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=for-the-badge&logo=arch-linux)&nbsp;
+![OpenBox](https://img.shields.io/badge/-Openbox-141a20?style=for-the-badge)&nbsp;
+![Git](https://img.shields.io/badge/-Git-141a20?style=for-the-badge&logo=git)&nbsp;
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api?username=am-shm&theme=blue-green">
+
 
 <!--
 **am-shm/am-shm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
