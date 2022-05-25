@@ -1,4 +1,4 @@
-## Interested in:
+## Familiar with:
 ![Linux](https://img.shields.io/badge/-Linux-141a20?style=for-the-badge&logo=linux)&nbsp;
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=for-the-badge&logo=arch-linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=for-the-badge&logo=git)&nbsp;
