@@ -20,6 +20,6 @@
 ![CS:GO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)&nbsp;
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=am-shm&theme=blue-green">
 <img src="https://img.shields.io/github/followers/am-shm.svg?style=social&label=Follow&maxAge=2592000">
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=am-shm&theme=blue-green">
