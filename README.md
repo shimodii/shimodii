@@ -23,9 +23,10 @@
 ![CS:GO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 
 
-<br>
 ### I USE ARCH BTW
 
+
+<br>
 <br>
 <img src="https://img.shields.io/github/followers/am-shm.svg?style=social&label=Follow&maxAge=2592000">
 <br>
