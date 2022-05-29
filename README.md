@@ -22,6 +22,10 @@
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)&nbsp;
 ![CS:GO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)&nbsp;
 
+
+<br>
+### I USE ARCH BTW
+
 <br>
 <img src="https://img.shields.io/github/followers/am-shm.svg?style=social&label=Follow&maxAge=2592000">
 <br>
