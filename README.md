@@ -1,4 +1,3 @@
-<center>
 ## Familiar with:
 ![Linux](https://img.shields.io/badge/-Linux-141a20?style=for-the-badge&logo=linux)&nbsp;
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=for-the-badge&logo=arch-linux)&nbsp;
@@ -30,4 +29,3 @@
 <img src="https://img.shields.io/github/followers/am-shm.svg?style=social&label=Follow&maxAge=2592000">
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=am-shm&theme=blue-green">
-</center>
