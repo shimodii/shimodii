@@ -40,6 +40,6 @@
 
 <br>
 <br>
-<img src="https://img.shields.io/github/followers/am-shm.svg?style=social&label=Follow&maxAge=2592000">
+<img src="https://img.shields.io/github/followers/shimodii.svg?style=social&label=Follow&maxAge=2592000">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=am-shm&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api?username=shimodii&theme=blue-green">
