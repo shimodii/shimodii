@@ -1,3 +1,8 @@
+## Details:
+Hi my name is amirmohammad, ComputerEngineering student, in love with computers, programming, self hosted applications, FOSS applications and linux.
+A motivated person (I hope so).
+also a Backend developer.
+
 ## Familiar with:
 ![Linux](https://img.shields.io/badge/-Linux-141a20?style=for-the-badge&logo=linux)&nbsp;
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=for-the-badge&logo=arch-linux)&nbsp;
