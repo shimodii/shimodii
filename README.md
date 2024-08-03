@@ -7,6 +7,7 @@ also a Backend developer.
 ![Linux](https://img.shields.io/badge/-Linux-141a20?style=for-the-badge&logo=linux)&nbsp;
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=for-the-badge&logo=arch-linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=for-the-badge&logo=git)&nbsp;
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -28,9 +29,3 @@ also a Backend developer.
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![CS:GO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
-
-<br>
-<br>
-<img src="https://img.shields.io/github/followers/shimodii.svg?style=social&label=Follow&maxAge=2592000">
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=shimodii&theme=blue-green">
