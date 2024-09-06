@@ -1,5 +1,5 @@
 ## Details:
-![thumb](./icons/bedp.jpg)&nbsp;
+<img src="./icons/bedp.jpg" width="500" align="right">
 Hello my name is Amirmohammad, Computer Engineering student specializing in Go development (Web applications). Linux and FOSS lover. Seeking opportunities to work on innovative projects with a team.
 
 ## Skills:
