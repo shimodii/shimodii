@@ -20,3 +20,6 @@ Hello my name is Amirmohammad, Computer Engineering student specializing in Go d
 ![js](./icons/js.png)
 ![node](./icons/node.png)
 ![lua](./icons/lua.png)
+
+## How to rach me:
+[LinkedIn](https://www.linkedin.com/in/shimodi/) | [Email](mailto://am.shahmoradi93@gmail.com) | [Mastodon](https://khiar.net/@the_sudoer) | [Telegram](https://t.me/shimodii)
