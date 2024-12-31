@@ -21,6 +21,9 @@ Hello my name is Amirmohammad, Computer Engineering student specializing in Go d
 ![node](./icons/node.png)
 ![lua](./icons/lua.png)
 
+### For Fun:
+![cw](https://www.codewars.com/users/shimodii/badges/large)
+
 ## How to rach me:
 [LinkedIn](https://www.linkedin.com/in/shimodi/) | [Email](mailto://am.shahmoradi93@gmail.com) | [Mastodon](https://khiar.net/@the_sudoer) | [Telegram](https://t.me/shimodii)
 
