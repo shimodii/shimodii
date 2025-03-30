@@ -24,6 +24,10 @@ Hello my name is Amirmohammad, Computer Engineering student specializing in Go d
 ### For Fun:
 ![cw](https://www.codewars.com/users/shimodii/badges/large)
 
+### Stats:
+![](https://github-readme-stats.vercel.app/api?username=shimodii&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&theme=dracula&hide_border=false)
+
 ## How to reach me:
 [LinkedIn](https://www.linkedin.com/in/shimodi/) | [Email](mailto://amir.m.shahmoradi@gmail.com) | [Mastodon](https://khiar.net/@the_sudoer) | [Telegram](https://t.me/shimodii)
 
