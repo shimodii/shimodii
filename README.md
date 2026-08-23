@@ -24,8 +24,7 @@ DevOps @ Dataak
 ![cw](https://www.codewars.com/users/shimodii/badges/large)
 
 ### Stats:
-![](https://github-readme-stats.vercel.app/api?username=shimodii&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&theme=dracula&hide_border=false)
+<img alt="GitHub Stats" width="45.5%" src="https://github-stats-extended.vercel.app/api?username=shimodii&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true">
 
 ## How to reach me:
 [LinkedIn](https://www.linkedin.com/in/shimodi/) | [Email](mailto://amir.m.shahmoradi@gmail.com) | [Mastodon](https://khiar.net/@the_sudoer) | [Telegram](https://t.me/shimodii)
