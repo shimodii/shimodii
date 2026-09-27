@@ -1,6 +1,6 @@
 ## Details:
-DevOps Engineer @ Dataak
-Linux lover
+DevOps Engineer @ Dataak <br>
+Linux lover <br>
 Security researcher
 
 ## Skills:
